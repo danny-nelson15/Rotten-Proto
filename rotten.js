@@ -10,8 +10,11 @@ var svg = d3.select("#chart")
         .attr("transform","translate("+margin.left+","+margin.top+")");
 
 
-d3.csv("rotten.csv", function(data){
- var x = d3.scaleLinear()
+var moviePromise = d3.csv("rotten.csv")
+    var success = function(data)
+    {
+        console.log("Worked", data)
+        var x = d3.scaleLinear()
     .domain([0, 600])
     .range([ 0, width ]);
   svg.append("g")
@@ -155,4 +158,13 @@ d3.csv("rotten.csv", function(data){
         .style("alignment-baseline", "middle")
         .on("mouseover", highlight)
         .on("mouseleave", noHighlight)
-  })
+    }
+    var fail = function(error)
+        {
+            console.log("Failed", error)
+        }
+    moviePromise.then(success, fail);
+    
+    
+ 
+  
