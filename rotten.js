@@ -30,7 +30,7 @@ var moviePromise = d3.csv("rotten.csv")
 
   
   var y = d3.scaleLinear()
-    .domain([0, 1])
+    .domain([0.75, 1])
     .range([ height, 0]);
   svg.append("g")
     .call(d3.axisLeft(y));
