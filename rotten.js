@@ -1,6 +1,6 @@
-var margin = {top: 40, right :150, bottom: 60, left: 30},
-        width = 500-margin.left-margin.right,
-        height = 420-margin.top-margin.bottom;
+var margin = {top: 40, right :150, bottom: 60, left: 50},
+        width = 800-margin.left-margin.right,
+        height = 720-margin.top-margin.bottom;
 
 var svg = d3.select("#chart")
     .append("svg")
@@ -30,23 +30,25 @@ var moviePromise = d3.csv("rotten.csv")
 
   
   var y = d3.scaleLinear()
-    .domain([0.75, 1])
+    .domain([1920, 2020])
     .range([ height, 0]);
   svg.append("g")
-    .call(d3.axisLeft(y));
+    .call(d3.axisLeft(y)
+             .tickFormat(d3.format("")));
 
   
   svg.append("text")
       .attr("text-anchor", "end")
       .attr("x", 0)
       .attr("y", -20 )
-      .text("Rating (%)")
+      .text("Year")
       .attr("text-anchor", "start")
 
   
   var z = d3.scaleSqrt()
-    .domain([0, 1])
-    .range([ 2, 30]);
+    .domain([d3.min(data, function(d) { return d.Rating; }), 1])
+    .range([2, 10]);
+    
 
  
   var myColor = d3.scaleOrdinal()
@@ -73,7 +75,7 @@ var moviePromise = d3.csv("rotten.csv")
       .duration(200)
     tooltip
       .style("opacity", 1)
-      .html("Rating: " + d.y)
+      .html("Rating: " + d.Rating*100+"%"+" "+d.Title)
       .style("left", (d3.mouse(this)[0]+30) + "px")
       .style("top", (d3.mouse(this)[1]+30) + "px")
   }
@@ -114,7 +116,7 @@ var moviePromise = d3.csv("rotten.csv")
     .append("circle")
       .attr("class", function (d) { return "bubbles " + d.Genre })
       .attr("cx", function (d) { return x(d.Reviews); } )
-      .attr("cy", function (d) { return y(d.Rating); } )
+      .attr("cy", function (d) { return y(d.Year); } )
       .attr("r", function (d) { return z(d.Rating); } )
       .style("fill", function (d) { return myColor(d.Genre); } )
     
@@ -128,8 +130,8 @@ var moviePromise = d3.csv("rotten.csv")
 
     // Add legend: circles
     var valuesToShow = [10000000, 100000000, 1000000000]
-    var xCircle = 390
-    var xLabel = 440
+    var xCircle = 590
+    var xLabel = 540
     
     // Add one dot in the legend for each name.
     var size = 20
@@ -138,7 +140,7 @@ var moviePromise = d3.csv("rotten.csv")
       .data(allgroups)
       .enter()
       .append("circle")
-        .attr("cx", 390)
+        .attr("cx", 590)
         .attr("cy", function(d,i){ return 10 + i*(size+5)})
         .attr("r", 7)
         .style("fill", function(d){ return myColor(d)})
@@ -150,7 +152,7 @@ var moviePromise = d3.csv("rotten.csv")
       .data(allgroups)
       .enter()
       .append("text")
-        .attr("x", 390 + size*.8)
+        .attr("x", 590 + size*.8)
         .attr("y", function(d,i){ return i * (size + 5) + (size/2)}) 
         .style("fill", function(d){ return myColor(d)})
         .text(function(d){ return d})

@@ -1,101 +1,101 @@
-Reviews,Rating,size,Genre,Title,Rank
-495,0.97,0,Superhero,Black Panther (2018),1
-505,0.94,0,Superhero,Avengers: Endgame (2019),2
-416,0.97,0,Spy,Mission: Impossible - Fallout (2018),3
-375,0.97,0,Superhero,Spider-Man: Into the Spider-Verse (2018),4
-413,0.97,0,Sci-Fi,Mad Max: Fury Road (2015),5
-445,0.93,0,Superhero,Wonder Woman (2017),6
-443,0.93,0,War,Dunkirk (2017),7
-337,0.97,0,Thriller,Coco (2017),8
-462,0.91,0,Sci-Fi,Star Wars: The Last Jedi (2017),9
-410,0.93,0,Superhero,Thor: Ragnarok (2017),10
-62,0.98,0,Sci-Fi,King Kong (1933),11
-405,0.93,0,Superhero,Logan (2017),12
-427,0.91,0,Superhero,Spider-Man: Far From Home (2019),13
-370,0.94,0,Superhero,Incredibles 2 (2018),14
-430,0.93,0,Sci-Fi,Star Wars: Episode VII - The Force Awakens (2015),15
-46,1.00,0,Thriller,The Adventures of Robin Hood (1938),16
-373,0.93,0,Thriller,Baby Driver (2017),17
-283,0.98,0,Thriller,Zootopia (2016),18
-347,0.94,0,Sci-Fi,War for the Planet of the Apes (2017),19
-126,0.97,0,Sci-Fi,Metropolis (1927),20
-384,0.92,0,Superhero,Spider-Man: Homecoming (2017),21
-62,1.00,0,War,Seven Samurai (Shichinin no Samurai) (1956),22
-392,0.90,0,Superhero,Shazam! (2019),23
-294,0.98,0,Thriller,Up (2009),24
-48,0.96,0,Thriller,The 39 Steps (1935),25
-406,0.91,0,Superhero,Captain America: Civil War (2016),26
-85,0.98,0,War,Lawrence of Arabia (1962),27
-338,0.94,0,Superhero,The Dark Knight (2008),28
-81,0.98,0,Sci-Fi,Jaws (1975),29
-46,1.00,0,Thriller,The Treasure of the Sierra Madre (1948),30
-320,0.94,0,Thriller,The Jungle Book (2016),31
-273,0.96,0,Thriller,Moana (2016),32
-417,0.88,0,Superhero,Ant-Man and the Wasp (2018),33
-329,0.96,0,Thriller,Harry Potter and the Deathly Hallows - Part 2 (2011),34
-89,0.98,0,War,Apocalypse Now (1979),35
-283,0.97,0,War,The Hurt Locker (2009),36
-373,0.92,0,Spy,Skyfall (2012),37
-44,1.00,0,Thriller,Stagecoach (1939),38
-350,0.94,0,Sci-Fi,Star Trek (2009),39
-246,0.96,0,Thriller,The LEGO Movie (2014),40
-426,0.87,0,Sci-Fi,Blade Runner 2049 (2017),41
-350,0.90,0,War,Isle of Dogs (2018),42
-456,0.85,0,Superhero,Avengers: Infinity War (2018),43
-354,0.92,0,Superhero,Marvel's The Avengers (2012),44
-217,0.97,0,Thriller,Kubo and the Two Strings (2016),45
-125,0.92,0,Sci-Fi,Star Wars: Episode IV - A New Hope (1977),46
-314,0.93,0,Spy,Mission: Impossible Rogue Nation (2015),47
-331,0.90,0,Spy,John Wick: Chapter 3 - Parabellum (2019),48
-62,1.00,0,Sci-Fi,The Terminator (1984),49
-257,0.95,0,Sci-Fi,WALL-E (2008),50
-44,0.98,0,Thriller,The African Queen (1951),51
-278,0.94,0,Superhero,Iron Man (2008),52
-200,0.96,0,Thriller,The Peanut Butter Falcon (2019),53
-41,1.00,0,Thriller,Rio Bravo (1959),54
-56,0.98,0,Thriller,Badlands (1974),55
-58,0.98,0,Thriller,The French Connection (1971),56
-64,0.98,0,Spy,Goldfinger (1964),57
-271,0.96,0,War,True Grit (2010),58
-74,0.97,0,Sci-Fi,Aliens (1986),59
-323,0.91,0,Superhero,Guardians of the Galaxy (2014),60
-46,0.98,0,Thriller,"Aguirre, the Wrath of God (Aguirre, der Zorn Gottes) (1972)",61
-102,0.94,0,Sci-Fi,Star Wars: Episode V - The Empire Strikes Back (1980),62
-256,0.95,0,Spy,Casino Royale (2006),63
-44,0.98,0,Thriller,The Searchers (1956),64
-86,0.97,0,Thriller,Ran (1985),65
-364,0.89,0,Superhero,Doctor Strange (2016),66
-59,0.95,0,Thriller,Paths of Glory (1957),67
-195,0.96,0,Thriller,Hunt for the Wilderpeople (2016),68
-308,0.91,0,Sci-Fi,Dawn Of The Planet Of The Apes (2014),69
-58,0.95,0,Thriller,The Bridge on the River Kwai (1957),70
-59,0.97,0,Thriller,Yellow Submarine (1968),71
-171,0.97,0,Thriller,Chicken Run (2000),72
-74,0.97,0,Thriller,The Princess Bride (1987),73
-306,0.90,0,Superhero,The Lego Batman Movie (2017),74
-235,0.94,0,Thriller,All Is Lost (2013),75
-321,0.90,0,Superhero,X-Men: Days of Future Past (2014),76
-72,0.97,0,Sci-Fi,Ghostbusters (1984 Original) (1984),77
-264,0.93,0,Thriller,Looper (2012),78
-283,0.93,0,Thriller,No Country for Old Men (2007),79
-50,0.98,0,Thriller,A Fistful of Dollars (Per un Pugno di Dollari) (1964),80
-403,0.85,0,Superhero,Guardians of the Galaxy Vol. 2 (2017),81
-40,0.93,0,Thriller,Mutiny on the Bounty (1935),82
-253,0.95,0,Thriller,The Lord of the Rings: The Two Towers (2002),83
-270,0.92,0,War,Sicario (2015),84
-42,0.98,0,War,Assault on Precinct 13 (1976),85
-254,0.91,0,Thriller,How to Train Your Dragon: The Hidden World (2019),86
-79,0.96,0,Sci-Fi,Back to the Future (1985),87
-75,0.96,0,Thriller,The Fugitive (1993),88
-154,0.97,0,Thriller,"Crouching Tiger, Hidden Dragon (2001)",89
-402,0.84,0,Superhero,Deadpool 2 (2018),90
-128,0.93,0,Thriller,The Lion King (1994),91
-73,0.93,0,Thriller,Godzilla (Gojira) (1954),92
-295,0.90,0,Superhero,Captain America: The Winter Soldier (2014),93
-64,0.97,0,Thriller,Who Framed Roger Rabbit (1988),94
-63,0.95,0,Thriller,Once Upon a Time in the West (1968),95
-200,0.96,0,Thriller,Catch Me If You Can (2002),96
-49,0.98,0,Thriller,Diva (1981),97
-125,0.91,0,Sci-Fi,Jurassic Park (1993),98
-70,0.97,0,Thriller,Babe (1995),99
-504,0.78,0,Superhero,Captain Marvel (2019),100
+Reviews,Rating,Year,Genre,Title,Rank
+495,0.97,2018,Superhero,Black Panther (2018),1
+505,0.94,2019,Superhero,Avengers: Endgame (2019),2
+416,0.97,2018,Spy,Mission: Impossible - Fallout (2018),3
+375,0.97,2018,Superhero,Spider-Man: Into the Spider-Verse (2018),4
+413,0.97,2015,Sci-Fi,Mad Max: Fury Road (2015),5
+445,0.93,2017,Superhero,Wonder Woman (2017),6
+443,0.93,2017,War,Dunkirk (2017),7
+337,0.97,2017,Thriller,Coco (2017),8
+462,0.91,2017,Sci-Fi,Star Wars: The Last Jedi (2017),9
+410,0.93,2017,Superhero,Thor: Ragnarok (2017),10
+62,0.98,1933,Sci-Fi,King Kong (1933),11
+405,0.93,2017,Superhero,Logan (2017),12
+427,0.91,2019,Superhero,Spider-Man: Far From Home (2019),13
+370,0.94,2018,Superhero,Incredibles 2 (2018),14
+430,0.93,2015,Sci-Fi,Star Wars: Episode VII - The Force Awakens (2015),15
+46,1.00,1938,Thriller,The Adventures of Robin Hood (1938),16
+373,0.93,2017,Thriller,Baby Driver (2017),17
+283,0.98,2016,Thriller,Zootopia (2016),18
+347,0.94,2017,Sci-Fi,War for the Planet of the Apes (2017),19
+126,0.97,1927,Sci-Fi,Metropolis (1927),20
+384,0.92,2017,Superhero,Spider-Man: Homecoming (2017),21
+62,1.00,1956,War,Seven Samurai (Shichinin no Samurai) (1956),22
+392,0.90,2019,Superhero,Shazam! (2019),23
+294,0.98,2009,Thriller,Up (2009),24
+48,0.96,1935,Thriller,The 39 Steps (1935),25
+406,0.91,2016,Superhero,Captain America: Civil War (2016),26
+85,0.98,1962,War,Lawrence of Arabia (1962),27
+338,0.94,2008,Superhero,The Dark Knight (2008),28
+81,0.98,1975,Sci-Fi,Jaws (1975),29
+46,1.00,1948,Thriller,The Treasure of the Sierra Madre (1948),30
+320,0.94,2016,Thriller,The Jungle Book (2016),31
+273,0.96,2016,Thriller,Moana (2016),32
+417,0.88,2018,Superhero,Ant-Man and the Wasp (2018),33
+329,0.96,2011,Thriller,Harry Potter and the Deathly Hallows - Part 2 (2011),34
+89,0.98,1979,War,Apocalypse Now (1979),35
+283,0.97,2009,War,The Hurt Locker (2009),36
+373,0.92,2012,Spy,Skyfall (2012),37
+44,1.00,1939,Thriller,Stagecoach (1939),38
+350,0.94,2009,Sci-Fi,Star Trek (2009),39
+246,0.96,2014,Thriller,The LEGO Movie (2014),40
+426,0.87,2017,Sci-Fi,Blade Runner 2049 (2017),41
+350,0.90,2018,War,Isle of Dogs (2018),42
+456,0.85,2018,Superhero,Avengers: Infinity War (2018),43
+354,0.92,2012,Superhero,Marvel's The Avengers (2012),44
+217,0.97,2016,Thriller,Kubo and the Two Strings (2016),45
+125,0.92,1977,Sci-Fi,Star Wars: Episode IV - A New Hope (1977),46
+314,0.93,2015,Spy,Mission: Impossible Rogue Nation (2015),47
+331,0.90,2019,Spy,John Wick: Chapter 3 - Parabellum (2019),48
+62,1.00,1984,Sci-Fi,The Terminator (1984),49
+257,0.95,2008,Sci-Fi,WALL-E (2008),50
+44,0.98,1951,Thriller,The African Queen (1951),51
+278,0.94,2008,Superhero,Iron Man (2008),52
+200,0.96,2019,Thriller,The Peanut Butter Falcon (2019),53
+41,1.00,1959,Thriller,Rio Bravo (1959),54
+56,0.98,1974,Thriller,Badlands (1974),55
+58,0.98,1971,Thriller,The French Connection (1971),56
+64,0.98,1964,Spy,Goldfinger (1964),57
+271,0.96,2010,War,True Grit (2010),58
+74,0.97,1986,Sci-Fi,Aliens (1986),59
+323,0.91,2014,Superhero,Guardians of the Galaxy (2014),60
+46,0.98,1972,Thriller,"Aguirre, the Wrath of God (Aguirre, der Zorn Gottes) (1972)",61
+102,0.94,1980,Sci-Fi,Star Wars: Episode V - The Empire Strikes Back (1980),62
+256,0.95,2006,Spy,Casino Royale (2006),63
+44,0.98,1956,Thriller,The Searchers (1956),64
+86,0.97,1985,Thriller,Ran (1985),65
+364,0.89,2016,Superhero,Doctor Strange (2016),66
+59,0.95,1957,Thriller,Paths of Glory (1957),67
+195,0.96,2016,Thriller,Hunt for the Wilderpeople (2016),68
+308,0.91,2014,Sci-Fi,Dawn Of The Planet Of The Apes (2014),69
+58,0.95,1957,Thriller,The Bridge on the River Kwai (1957),70
+59,0.97,1968,Thriller,Yellow Submarine (1968),71
+171,0.97,2000,Thriller,Chicken Run (2000),72
+74,0.97,1987,Thriller,The Princess Bride (1987),73
+306,0.90,2017,Superhero,The Lego Batman Movie (2017),74
+235,0.94,2013,Thriller,All Is Lost (2013),75
+321,0.90,2014,Superhero,X-Men: Days of Future Past (2014),76
+72,0.97,1984,Sci-Fi,Ghostbusters (1984 Original) (1984),77
+264,0.93,2012,Thriller,Looper (2012),78
+283,0.93,2007,Thriller,No Country for Old Men (2007),79
+50,0.98,1964,Thriller,A Fistful of Dollars (Per un Pugno di Dollari) (1964),80
+403,0.85,2017,Superhero,Guardians of the Galaxy Vol. 2 (2017),81
+40,0.93,1935,Thriller,Mutiny on the Bounty (1935),82
+253,0.95,2002,Thriller,The Lord of the Rings: The Two Towers (2002),83
+270,0.92,2015,War,Sicario (2015),84
+42,0.98,1976,War,Assault on Precinct 13 (1976),85
+254,0.91,2019,Thriller,How to Train Your Dragon: The Hidden World (2019),86
+79,0.96,1985,Sci-Fi,Back to the Future (1985),87
+75,0.96,1993,Thriller,The Fugitive (1993),88
+154,0.97,2001,Thriller,"Crouching Tiger, Hidden Dragon (2001)",89
+402,0.84,2018,Superhero,Deadpool 2 (2018),90
+128,0.93,1994,Thriller,The Lion King (1994),91
+73,0.93,1954,Thriller,Godzilla (Gojira) (1954),92
+295,0.90,2014,Superhero,Captain America: The Winter Soldier (2014),93
+64,0.97,1988,Thriller,Who Framed Roger Rabbit (1988),94
+63,0.95,1968,Thriller,Once Upon a Time in the West (1968),95
+200,0.96,2002,Thriller,Catch Me If You Can (2002),96
+49,0.98,1981,Thriller,Diva (1981),97
+125,0.91,1993,Sci-Fi,Jurassic Park (1993),98
+70,0.97,1995,Thriller,Babe (1995),99
+504,0.78,2019,Superhero,Captain Marvel (2019),100
